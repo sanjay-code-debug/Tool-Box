@@ -23,6 +23,10 @@ ls
 
 Composer 
 ========
+
+
+          - composer.json vs composer.lock
+          - composer install vs composer update
                       
               composer update
               ===============
